@@ -29,6 +29,7 @@ app.get('/find', (req, res) => {
     const data = {
         timezone: timezone[0],
         dateTime: dateTime,
+        time: time,
     }
     res.json(data);
 });
