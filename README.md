@@ -2,8 +2,8 @@
 
 Step to use it:
 
-1. ```git clone https://github.com/AkhmadRamadani/humanis-timezone.git```
-2. ```cd humanis-timezone```
+1. ```git clone https://github.com/AkhmadRamadani/node-timezone.git```
+2. ```cd node-timezone```
 3. ```npm install```
 4. ```node index.js```
 
